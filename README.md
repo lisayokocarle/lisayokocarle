@@ -11,3 +11,5 @@ I am currently a Master's candidate for Data Science (Quantitative Methods in th
 📫 How to reach me: lyc2121@columbia.edu or [LinkedIn](https://www.linkedin.com/in/lisa-carle/)
 
 📚 Programming Languages: Python, R, SQL
+
+🗂️ You can find packages and projects I have worked on in my repositories 
