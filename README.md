@@ -4,7 +4,7 @@ I am currently a Master's candidate for Data Science (Quantitative Methods in th
 
 😄 Pronouns: she/her/her
 
-🌱 I’m currently learning Data science techniques to solve and predict complex issues through social science method style analysis.
+🌱 I’m currently learning Data science techniques to solve and predict complex issues through social science research method styles of analysis.
 
 👩🏻‍💻 I’m looking for work in positions as a Data Scientist, or positions where I can apply my knowledge of Data Science techniques in solving complex business problems.  
 
